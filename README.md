@@ -1,3 +1,3 @@
 IMPLEMNTAÇÃO BASICA DOS PADRÕES SINGLETON E FAÇADE
 
-. codigos em suas respectivas branchs
+. codigos em suas respectivas branches
