@@ -1,6 +1,6 @@
 INTRO: 
 
-. O padrão Façade consiste em ter uma classe de fachada para um sistema mais complexo afim de facilitar esse aceso para o cliente, sem conexção direta, mas sim intermediada por Façade.
+. O padrão Façade consiste em ter uma classe de fachada para um sistema mais complexo afim de facilitar esse acesso para o cliente, sem conexção direta, mas sim intermediada por Façade.
 
 Diagrama:
 
