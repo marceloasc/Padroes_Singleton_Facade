@@ -1,3 +1,4 @@
-IMPLEMNTAÇÃO BASICA DOS PADRÕES SINGLETON E FAÇADE
+# Info
+## Implementação basica dos Pattern's Singleton e Façade
 
-. codigos em suas respectivas branches
+- codigos em suas respectivas branches
